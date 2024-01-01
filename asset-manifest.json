@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WallPaper-Galaxy/static/css/main.2e8d5589.css",
+    "main.js": "/WallPaper-Galaxy/static/js/main.b452528f.js",
+    "static/js/787.088dbeb2.chunk.js": "/WallPaper-Galaxy/static/js/787.088dbeb2.chunk.js",
+    "static/media/Loader.gif": "/WallPaper-Galaxy/static/media/Loader.7384c6a1a0716ef0ab1a.gif",
+    "index.html": "/WallPaper-Galaxy/index.html",
+    "main.2e8d5589.css.map": "/WallPaper-Galaxy/static/css/main.2e8d5589.css.map",
+    "main.b452528f.js.map": "/WallPaper-Galaxy/static/js/main.b452528f.js.map",
+    "787.088dbeb2.chunk.js.map": "/WallPaper-Galaxy/static/js/787.088dbeb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e8d5589.css",
+    "static/js/main.b452528f.js"
+  ]
+}
