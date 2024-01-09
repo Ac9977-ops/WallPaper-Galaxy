@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/WallPaper-Galaxy/static/css/main.c721bde9.css",
-    "main.js": "/WallPaper-Galaxy/static/js/main.80427a1a.js",
+    "main.css": "/WallPaper-Galaxy/static/css/main.6c6cd79b.css",
+    "main.js": "/WallPaper-Galaxy/static/js/main.40e74c9a.js",
     "static/js/787.088dbeb2.chunk.js": "/WallPaper-Galaxy/static/js/787.088dbeb2.chunk.js",
     "static/media/Loader.gif": "/WallPaper-Galaxy/static/media/Loader.7384c6a1a0716ef0ab1a.gif",
     "index.html": "/WallPaper-Galaxy/index.html",
-    "main.c721bde9.css.map": "/WallPaper-Galaxy/static/css/main.c721bde9.css.map",
-    "main.80427a1a.js.map": "/WallPaper-Galaxy/static/js/main.80427a1a.js.map",
+    "main.6c6cd79b.css.map": "/WallPaper-Galaxy/static/css/main.6c6cd79b.css.map",
+    "main.40e74c9a.js.map": "/WallPaper-Galaxy/static/js/main.40e74c9a.js.map",
     "787.088dbeb2.chunk.js.map": "/WallPaper-Galaxy/static/js/787.088dbeb2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c721bde9.css",
-    "static/js/main.80427a1a.js"
+    "static/css/main.6c6cd79b.css",
+    "static/js/main.40e74c9a.js"
   ]
 }
